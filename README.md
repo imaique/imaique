@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael
 - 👀 I’m interested in learning more about the Software Development & Software Engineering field
-- 🌱 I’m currently in my second year in Computer Science at Concordia University
+- 🌱 I’m currently in my third year in Computer Science at Concordia University
 - 💞️ I’m looking to collaborate on interesting projects that are either impactful or pertain to Data Structures & Algorithms
 - 📫 You can reach me by email at maiquedev@gmail.com
 
